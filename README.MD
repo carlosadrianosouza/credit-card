@@ -30,5 +30,6 @@ A verificação é feita usando o método `startsWith` para cada prefixo.
 const numero = "5465711393972079";
 console.log("Número do cartão: " + numero + " | Tipo: " + descobrirPrefixo(numero));
 // Saída: Número do cartão: 5465711393972079 | Tipo: MASTERCARD
+```
 
 ## By:Github Copilot
